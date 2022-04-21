@@ -1,3 +1,9 @@
 # created by virtualenv automatically
 !/venv/bin
 !/for_training/
+/timer.xlsx
+!/for_training/asyncio_train/
+!/for_training/mod_les_psutil_2.py
+/for_training/xlsxwriter_les_1.py
+/for_training/asyncio_train/
+/for_training/
